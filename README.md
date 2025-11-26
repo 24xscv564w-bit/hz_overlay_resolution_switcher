@@ -35,21 +35,8 @@ Example of 144Hz detection (bottom-right overlay)
 
 Preview of the 2K resolution toggle icons included in the release.
 
-<p align="center">
-  <img src="assets/icons/2k1600.png" alt="2K1600 toggle icon preview" width="256" height="256" style="border-radius:12px; margin-right:20px;" />
-  <img src="assets/icons/2k1440.png" alt="2K1440 toggle icon preview" width="256" height="256" style="border-radius:12px;" />
-</p>
-
-<p align="center">
-  <strong>2K1600</strong> — `Toggle2k16.exe` &nbsp;&nbsp; | &nbsp;&nbsp; <strong>2K1440</strong> — `Toggle2k.exe`
-</p>
-
-**Icon files included**
-- `assets/icons/2k1600.ico` — multi-resolution ICO (256/128/64/32/16)
-- `assets/icons/2k1440.ico` — multi-resolution ICO (256/128/64/32/16)
-
-> Recommended display sizes: 256×256 for store previews, 64×64 or 32×32 for UI icons.  
-> The PNG previews above are square with rounded corners for a clean look on GitHub.
+<img src="icons/2K1600P.png" width="220">
+<img src="icons/2K1440P.png" width="220">
 
 
 ## Usage
