@@ -44,7 +44,7 @@ Preview of the QHD <-> FHD toggles
    Or run without console: `pythonw hz_overlay.py`
 3. Add Start_Hz_Overlay - Shortcut.lnk to shell:startup (set run to minizmized in properties) 
 4. Add ToggleHZ.ahk.ahk to shell:startup for easy CTRL + ALT + H  hertz toggle or set to custom
-5. Optional: Toggle between QHD & FHD with Toggle2k.exe  Toggle2k16.exe 
+5. Optional: Toggle between QHD & FHD with Toggle2k.exe  Toggle2k16.exe veriants
    
 ## Why this exists
 Many monitors switch between 120 Hz (10-bit) and 144 Hz (8-bit), 
