@@ -1,6 +1,16 @@
 # hz-overlay
 Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144Hz) and bit-depth hints.
 
+### Main tools
+ **hz_overlay.py**  [⬇️ Download](https://github.com/24xscv564w-bit/hz-overlay-tools/raw/main/hz_overlay.py) 
+
+ > - **Start_Hz_Overlay.bat**  [⬇️ Download](https://github.com/24xscv564w-bit/hz-overlay-tools/raw/main/tools/Start_Hz_Overlay.bat) 
+ 
+ > - Start_Hz_Overlay Shortcut (.lnk) **Download from repository above**
+
+
+---
+
 ## Features
 - Detects display refresh rate using Win32 API.
 - Displays 120Hz as an animated rainbow text with a subtle nudge animation.
@@ -54,9 +64,45 @@ your refresh rate changes.
 
 ## Building an EXE
 See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
+some exes included
 
-## License
-MIT
+
+Summary:
+
+- Added **1440p** & **1600p** gold icons  
+- Updated resolution toggle to **2560×1600**  
+- Clean build & signing instructions  
+- Updated README previews  
+- Reorganized repo structure  
+
+---
+
+## 🤝 Why This Repo Exists
+
+This repo accompanies the main **hz-overlay**, providing:
+- Easy resolution switching  
+- Instant hertz toggling  
+- Custom high-res icons  
+- Auto-start launchers  
+- Support files for Windows users  
+
+visual que for current and new refresh-rate
+
+
+
+## ⭐ Credits
+
+Created by **24xscv564w-bit (K.P.)**, 2025  
+Part of the **hz-overlay** project ecosystem.
+
+---
+
+## 📜 License
+
+MIT License — free for personal + commercial use.
+
+---
+
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
