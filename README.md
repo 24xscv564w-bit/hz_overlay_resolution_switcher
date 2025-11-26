@@ -24,6 +24,8 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 - **`Screenshot.png`** — still image of the overlay in action  
 - **`hz_overlay_in_action.mov`** — short demonstration video  
 ## Preview
+Example of 144Hz detection (bottom-right overlay)
+
 ![Overlay Screenshot](Screenshot_144.png)
 
 ## Usage
