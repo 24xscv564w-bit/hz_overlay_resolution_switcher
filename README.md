@@ -34,6 +34,12 @@ Example of 144Hz detection (bottom-right overlay)
 1. Ensure Python 3.8+ is installed on Windows.
 2. Run with console: `python hz_overlay.py`  
    Or run without console: `pythonw hz_overlay.py`
+   
+## Why this exists
+Many monitors switch between 120 Hz (10-bit) and 144 Hz (8-bit), 
+but Windows provides no quick visual indicator.  
+This overlay gives an instant, automatic notification whenever 
+your refresh rate changes.
 
 ## Building an EXE
 See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
@@ -44,3 +50,4 @@ MIT
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-00adef)
+![Downloads](https://img.shields.io/github/downloads/24xscv564w-bit/hz-overlay/total?color=blue)
