@@ -1,5 +1,7 @@
 # hz-overlay
 Ready to use lightweight Windows overlay to indicate monitor refresh rate. The overlays alone under 15kb, total repo 18.5mb
+
+👉 **[Download Latest Release](https://github.com/24xscv564w-bit/hz-overlay/releases/latest)** 
 ### AI part
 Human tweaked AI code
 ## Overlay Preview
@@ -28,8 +30,6 @@ Example of 144Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 - Displays 144Hz as red, italicized text with a glow effect.
 - Positions overlay near bottom-right (configurable in script).
 - Minimal dependencies (uses Tkinter and Python stdlib).
-
-👉 **[Download Latest Release](https://github.com/24xscv564w-bit/hz-overlay/releases/latest)**  
 
 ## 📁 Included Files
 ### Core Files
