@@ -9,7 +9,8 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
  > - **Start_Hz_Overlay.bat** *Edit path* [⬇️ Download] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay.bat
  
  > - Start_Hz_Overlay Shortcut (.lnk) ** (https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay%20-%20Shortcut.lnk) **
-
+ ## Notes"
+ > - AHK switches hz and requires Qres to be in C:\Program Files (x86)\Qres\QRes.exe or customized path updated in notepad. 
 
 ---
 
