@@ -46,7 +46,8 @@ Example of 144Hz detection (bottom-right overlay)
 - **`Stay_Overlay.py`** - Alaways on overlay plain and transparent. 
 - **`Toggle2k.exe`** — instantly switches monitor between 1080p/2K1440p
 - **`Toggle2k16.exe`** — instantly switches monitor between 1200p/2K1600p
-### Media
+### Media  
+- **`Screenshot_Transparent144hz.png`** - super simple overlay
 - **`Screenshot.png`** — still image of the overlay in action  
 - **`hz_overlay_in_action.mov`** — short demonstration video
 ## Resolution toggles Preview
@@ -59,10 +60,13 @@ Preview of the QHD <-> FHD toggles
 ## Usage
 1. Ensure Python 3.8+ is installed on Windows.
 2. Run with console: `python hz_overlay.py --alpha 0.3`  
-   Or run without console: `pythonw hz_overlay.py`
-3. Add Start_Hz_Overlay - Shortcut.lnk to shell:startup (set run to minizmized in properties) 
-4. Add ToggleHZ.ahk.ahk to shell:startup for easy CTRL + ALT + H  hertz toggle or set to custom
-5. Optional: Toggle between QHD & FHD with Toggle2k.exe  Toggle2k16.exe veriants
+   Or run without console: click the file
+3. Click `Stay_Overlay.py - Alaways on overlay plain and transparent.
+4. Install Qres for AHK, Install Auto Hot Key
+5. Add Start_Hz_Overlay - Shortcut.lnk to shell:startup (set run to minizmized in properties) 
+6. Add ToggleHZ.ahk.ahk to shell:startup for easy CTRL + ALT + H  hertz toggle or set to custom
+7. Optional: Toggle between QHD & FHD with Toggle2k.exe  Toggle2k16.exe veriants
+
    
 ## Why this exists
 Many monitors switch between 120 Hz (10-bit) and 144 Hz (8-bit), 
