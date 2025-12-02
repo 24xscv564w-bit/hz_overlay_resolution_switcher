@@ -2,15 +2,17 @@
 Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144Hz) and bit-depth hints.
 
 ## Main tools
- **hz_overlay.py**  [⬇️] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
+ **`hz_overlay.py`**  [⬇️] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
 <a id="raw-url" href="https://github.com/username/repo/blob/main/hz_overlay.py?raw=1" download>Download</a>
-
- > - AHK toggle https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/ToggleHZ.ahk.ahk 
- > - **Start_Hz_Overlay.bat** *Edit path* [⬇️ Download] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay.bat
- 
- > - Start_Hz_Overlay Shortcut (.lnk) ** (https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay%20-%20Shortcut.lnk) **
+ >  - **`Stay_Overlay.py`** *Ready to Use* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Stay_Overlay.py
+ -------------  
+ > - **`AHK toggle`** Add to **`shell:startup`** *Check Path*, install **`Qres`**  https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/ToggleHZ.ahk.ahk 
+ > - **`Start_Hz_Overlay.bat`** *Edit path* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay.bat
+ > - **`Start_Hz_Overlay Shortcut (.lnk)`** Add to **`shell:startup`** (https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay%20-%20Shortcut.lnk) **
  ## Notes"
- > - AHK switches hz and requires Qres to be in C:\Program Files (x86)\Qres\QRes.exe or customized path updated in notepad. 
+ > - AHK switches hz and requires Qres to be in C:\Program Files (x86)\Qres\QRes.exe or customized path updated in notepad.
+ >  - **`Stay_Overlay.py`** Always on, simple and is not distracting.
+ >     
 
 ---
 
@@ -35,6 +37,7 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 - **`Start_Hz_Overlay - Shortcut.lnk`** — Windows shortcut for easy autostart  
 - **`ToggleHZ.ahk`** — AutoHotkey script for toggling 120 Hz ↔ 144 Hz  
 - **`ToggleHZ.bat`** — Batch version of the refresh-rate toggle
+- **`Stay_Overlay.py`** - Alaways on overlay plain and transparent. 
 - **`Toggle2k.exe`** — instantly switches monitor between 1080p/2K1440p
 - **`Toggle2k16.exe`** — instantly switches monitor between 1200p/2K1600p
 ### Media
