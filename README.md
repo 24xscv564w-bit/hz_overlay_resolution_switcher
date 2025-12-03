@@ -20,11 +20,11 @@ Clean Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 >  - AHK switches hz and requires Qres to be in C:\Program Files (x86)\Qres\QRes.exe or customized path updated in notepad.
 ## When using **`Stay_Overlay.py`**
 >    
- >  - **`Stay_Overlay.py`** Always on, simple and is not distracting. If you use this, add **`Stay_Overlay - Shortcut.lnk`** to **`shell:startup`** or create your own shortcut and set to run minimized in properties.
+ >  - **`Stay_Overlay.py`** Always on, simple and is not distracting. If you use this, add create shortlink and add to **`shell:startup`** or create your own shortcut and set to run minimized in properties.
  >     
 ##   When using **`hz_overlay.py`**
  > - **`Start_Hz_Overlay.bat`** *Edit path* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay.bat
- > - **`Start_Hz_Overlay Shortcut (.lnk)`** Add to **`shell:startup`** (https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay%20-%20Shortcut.lnk) **
+ > - **Create short link of hz_overlay.py** and add to **`shell:startup`** 
 
 ---
 
