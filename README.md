@@ -46,8 +46,7 @@ Clean Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 - **`Stay_Overlay.py`** Does not dissapear is **very plain**
   
 ### Helper Tools
-- **`Start_Hz_Overlay.bat`** — launches the overlay  
-- **`Start_Hz_Overlay - Shortcut.lnk`** — Windows shortcut for easy autostart  
+- **`Start_Hz_Overlay.bat`** — launches the overlay   
 - **`ToggleHZ.ahk`** — AutoHotkey script for toggling 120 Hz ↔ 144 Hz  
 - **`ToggleHZ.bat`** — Batch version of the refresh-rate toggle
 - **`Stay_Overlay.py`** - Alaways on overlay plain and transparent. 
